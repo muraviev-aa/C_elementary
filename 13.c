@@ -1,10 +1,6 @@
-// Сколько битов в байте?
-// CHAR_BIT = 8 - КОНСТАНТА
-
 #include <stdio.h>
 #include <limits.h>
 
-// ключевое слово_имя константы_ значение
 #define INT_BIT 32
 
 int main()

@@ -4,6 +4,7 @@
 <p align="center">
 <img src="images/c.png" alt="drawing" width="350"/>
 </p>
+
 ***В этом проекте рассмотрены: 
 
 13. Сколько битов в байте;  

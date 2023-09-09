@@ -1,11 +1,12 @@
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # Основы программирования на языке Си.
 <p align="center">
-<img src="images/c.png" alt="drawing" width="550"/>
+<img src="images/c.png" alt="drawing" width="350"/>
 </p>
 В этом проекте рассмотрены: 
-13. Сколько битов в байте;
+
+13. Сколько битов в байте;  
 14. Вывод минимальных и максимальных значений для целых базовых типов;
 15. Дополнительные целые типы;
 16. Тип long long int;

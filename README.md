@@ -1,10 +1,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a name="readme-top"></a>
 # Основы программирования на языке Си.
 <p align="center">
 <img src="images/c.png" alt="drawing" width="350"/>
 </p>
-<a name="readme-top"></a>
 
 ### В этом проекте рассмотрены: 
 13. Сколько битов в байте;  
@@ -57,5 +57,6 @@
 57. Очистка буфера функцией fflush();
 58. Разные уровни программирования;
 59. Демонстрация целоцисленного деления;
+60. Нахождение остатка от деления целых чисел;
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

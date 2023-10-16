@@ -34,5 +34,7 @@ int main()
     days = temp / 24;
     printf("days is %u\n", days);
 
+    system("pause>null");
+
     return 0;
 }

@@ -5,8 +5,8 @@
 int main()
 {
     //Win32 API
-    //SetConsoleCP(1251);
-    //SetConsoleOutputCP(1251);
+    SetConsoleCP(1251);
+    SetConsoleOutputCP(1251);
 
     int ch1, ch2, ch3;
 
@@ -22,7 +22,7 @@ int main()
     putchar(ch3);
     putchar('\n');
 
-    system("pause>qwerty");
+    system("pause>nul");
 
     return 0;
 }

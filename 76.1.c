@@ -34,16 +34,7 @@ void numberWorkingDays(int num)
         else printf("There are 21 working days in December\n");
         printf("Arbeit macht frei\n\n");
     }
-    else if (num > 12)
-    {
-        printf("The number must be no more than 12");
-    }
-    else if (num < 0)
-    {
-        printf("The number must be positive");
-    }
-    else if (num == 0)
-    {
-        printf("The number must not be equal to 0");
-    }
+    else if (num > 12) printf("The number must be no more than 12");
+    else if (num < 0) printf("The number must be positive");
+    else if (num == 0) printf("The number must not be equal to 0");
 }

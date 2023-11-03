@@ -9,7 +9,11 @@ int main()
     printf("The array contains %u elements\n\n", sizeof(score) / sizeof(score[0]));
 
     printf("Address of score[0] is %p\n", &score[0]);
-    printf("Address of score is %p\n", score);
+    printf("Address of score is %p\n\n", score);
+
+    printf("%d\n", score[6]);
+    score[6] = -23;
+    printf("%d\n", score[6]);
 
     return 0;
 }

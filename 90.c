@@ -17,7 +17,7 @@ int main()
     massiv[2] = 30;
     massiv[3] = 40;
 
-    //   1 байт     1 байт    1 байт    1 байт   1 байт
+    //   1 byte     1 byte    1 byte    1 byte   1 byte
     // |massiv[0]||massiv[1]|massiv[2]|massiv[3]|number|
     massiv[4] = 50; // !!! ERROR !!! There is no such element in the array
 

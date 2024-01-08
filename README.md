@@ -2,13 +2,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-<<<<<<< HEAD
 <img src="images/code_blocks.png" alt="drawing" width="159">
 
-<a name="readme-top"></a>
-=======
-
->>>>>>> df55b661aabc38b4c84b2f21df5483a1ef182bf7
 # Основы программирования на языке Си (часть 1).
 <p align="center">
 <img src="images/c.png" alt="drawing" width="350"/>
